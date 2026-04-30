@@ -9,14 +9,14 @@ This project presents a Coffee Order Dashboard built using Microsoft Excel to an
 Data cleaning and modeling were performed using Power Pivot, and advanced Excel functions were used to ensure accurate and efficient data handling.
 
 
-🎯 Objectives
+Objectives
 -Analyze coffee sales performance
 -Identify top customers and countries
 -Track sales trends over time
 -Enable interactive filtering for better decision-making
 
 
-🛠️ Tools & Technologies Used
+Tools & Technologies Used
 1. Microsoft Excel
 2. Power Pivot (Data Cleaning & Modeling)
 3. Pivot Tables & Pivot Charts
@@ -25,9 +25,9 @@ Data cleaning and modeling were performed using Power Pivot, and advanced Excel 
    b. INDEX + MATCH
 
 
-📊 Dashboard Features
+Dashboard Features
 
-📈 Visualizations
+Visualizations
 1. Column Chart – Sales by Country
 2. Column Chart – Top 5 Customers
 3. Line Chart – Total Sales Over Time
