@@ -37,6 +37,8 @@ Interactive Slicers
 2. Loyalty Card (Yes / No)
 3. Package Size (0.2kg, 0.5kg, 1kg, 2kg, etc.)
 
+![image alt](https://github.com/ZeyaulHaque0786/Coffee-Sales-Dashboard-in-Excel/blob/main/Coffee_Sales_Dashboard.png?raw=true)
+
 
 Key Insights
 1. Identify high-performing countries
